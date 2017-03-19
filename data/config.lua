@@ -1,8 +1,7 @@
 do local _ = {
   admins = {
     {
-      189161839,
-      "@iq\\_313k"
+     0,
     }
   },
   disabled_channels = {},
